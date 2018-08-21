@@ -21,7 +21,7 @@ beta 1.0
 
 モールス信号による平仮名、英文の暗号化。2進数変換による全文字の暗号化。
 復号化機能付き。  
-Encryption of *Hiragana* and English by morse code. Encryption of any characters by binary exchange. And Decryption.
+Encryption of *Hiragana* and English by morse code. Encryption of any characters by binary exchange. And decryption.
 
 用途 usage
 -------------------------------
